@@ -13,7 +13,7 @@
    <img align="center" alt="Jess-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jess-gif" src="https://discordapp.com/channels/844352051551141898/1144353367641030696/1233237842910511124/hi.gif">
+  <img align="right" alt="Jess-gif" src="https://s3.ezgif.com/tmp/ezgif-3-34bb93f571.gif">
  </div>
 
  ## 
